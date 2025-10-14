@@ -3,7 +3,7 @@
 This is a practice project I built as part of my **JavaScript Full Stack Certification**.  
 It’s a simple **single-page travel advisor app** that allows users to search for destinations by **keyword** (beach, temple, mountain, city, adventure, or a country name) and view recommended places with images and descriptions.  
 
----
+--- 
 
 ## 🚀 Features
 - Single-page layout with sections: **Home, About, Contact, Recommendations**  

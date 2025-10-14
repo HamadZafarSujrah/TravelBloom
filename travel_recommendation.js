@@ -1,5 +1,5 @@
 let travelData = [];
-
+ 
 // Load data from JSON
 fetch("travel_recommendation_api.json")
   .then(response => response.json())
