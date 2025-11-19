@@ -1,5 +1,5 @@
 let travelData = [];
- 
+
 // Load data from JSON
 fetch("api.json")
   .then(response => response.json())
